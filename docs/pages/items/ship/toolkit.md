@@ -1,10 +1,8 @@
-|Title      | Advanced Toolkit          
-|-|-:
-|Type       | Ship                    
-|Effects    |  +2 Ship Regeneration
-|Price      | 100k Gold    
-|Islands    | Malaysia       
-|Rarity     | Legendary                     
-|Requirements| Kaptain
+|Title        | Advanced Toolkit          
+|:-|-:
+|Type         | Ship                    
+|Effects      | +8 Ship Regeneration (If Kaptain)
+|Price        | 200k Gold    
+|Islands      | Malaysia             
 
-The Advanced Toolkit gives your ship +2 regeneration 
+The Advanced Toolkit gives your ship +8 regeneration 

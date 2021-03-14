@@ -1,11 +1,10 @@
-|Title      | Bruiser      
+|Title        | Drifter  
 |:-|-:
-|Type       | Hybrid          
-|Effects    | 0.2 Ship Speed(If kaptain) & +2 [Damage](/upgrades/damage.md)
-|Price      | 25k Gold
-|Islands    | Guinea & Labrador        
-|Rarity     | Rare 
-
-The Drifter adds 0.2 Ship Speed and 2 Damage to your cannon. 
+|Type         | Hybrid          
+|Effects      | 1.5 Ship Speed(If kaptain) & +10 [Damage](/upgrades/damage.md)
+|Price        | 200k Gold
+|Islands      | Guinea & Labrador  
+       
+The Drifter adds 1.5 Ship Speed and 10 Damage to your cannon. 
 
 

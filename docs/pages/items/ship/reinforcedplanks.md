@@ -1,10 +1,8 @@
-|Title      | Reinforced Planks        
-|-|-:
-|Type       | Ship                    
-|Effects    |  +25% Ship HP
-|Price      | 35k Gold    
-|Islands    | Brazil       
-|Rarity     | Epic                     
-|Requirements| Kaptain
+|Title        | Reinforced Planks        
+|:-|-:
+|Type         | Ship                    
+|Effects      | +25% Damage Reduction (If Kaptain)
+|Price        | 35k Gold    
+|Islands      | Brazil                
 
-The Reinforced Planks adds 25% HP to your ship.
+The Reinforced Planks adds 25% Damage Reduction to your ship.
